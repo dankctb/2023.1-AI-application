@@ -1,2 +1,3 @@
-# Hé lu
+# AI application assignment
+
 
